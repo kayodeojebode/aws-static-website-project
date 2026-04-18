@@ -15,22 +15,34 @@ This project demonstrates how to host a static website using Amazon S3.
 - AWS Console
 
 ## 🌐 Live Demo
-(http://kayode-aws-site-2026.s3-website.eu-west-2.amazonaws.com)
+[View Live Website](http://kayode-aws-site-2026.s3-website.eu-west-2.amazonaws.com)
 
 ## 📸 Screenshots
-### Live Website
-![Live Website](live-website1..jpg)
+### 🌐 Live Website
 
-### Live Website
-![Live Website](live-website2.jpg)
+![Homepage](screenshots/live-site1.jpg)
 
-### Live Website
-![Live Website](live-website3.jpg)
+![About Section](screenshots/live-site2.jpg)
 
-### S3 Bucket Properties
-![S3 Bucket Properties](s3-bucket-properties.jpg)
+---
+
+### ☁️ AWS S3 Setup
+
+#### S3 Bucket List
+![S3 Bucket](screenshots/s3-bucket-list.jpg)
+
+#### S3 Bucket Properties
+![S3 Properties](screenshots/s3-properties.jpg)
 
 ## 📚 What I Learned
 - How S3 works
 - Static website hosting in AWS
 - Basic cloud deployment
+
+## 💼 Why This Project Matters
+
+This project demonstrates my ability to:
+- Deploy real-world applications using AWS
+- Configure S3 for static website hosting
+- Understand cloud storage and public access settings
+- Build and showcase projects for cloud engineering roles
