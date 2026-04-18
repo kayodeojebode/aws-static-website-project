@@ -19,20 +19,14 @@ This project demonstrates how to host a static website using Amazon S3.
 
 ## 📸 Screenshots
 ### 🌐 Live Website
-
-![Homepage](screenshots/live-site1.jpg)
-
-![About Section](screenshots/live-site2.jpg)
+<img src="screenshots/live-site1.jpg" width="700"/>
+<img src="screenshots/live-site2.jpg" width="700"/>
+<img src="screenshots/live-site3.jpg" width="700"/>
 
 ---
 
-### ☁️ AWS S3 Setup
-
-#### S3 Bucket List
-![S3 Bucket](screenshots/s3-bucket-list.jpg)
-
-#### S3 Bucket Properties
-![S3 Properties](screenshots/s3-properties.jpg)
+### ☁️ AWS S3 Configuration
+<img src="screenshots/s3-properties.jpg" width="700"/>
 
 ## 📚 What I Learned
 - How S3 works
