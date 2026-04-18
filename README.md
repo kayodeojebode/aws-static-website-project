@@ -15,7 +15,7 @@ This project demonstrates how to host a static website using Amazon S3.
 - AWS Console
 
 ## 🌐 Live Demo
-(Add your S3 website link here)
+(http://kayode-aws-site-2026.s3-website.eu-west-2.amazonaws.com)
 
 ## 📸 Screenshots
 (Add screenshots later)
