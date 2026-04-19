@@ -9,13 +9,21 @@ This project demonstrates how to host a static website using Amazon S3.
 - Uploaded website files (HTML)
 - Made the website publicly accessible
 
+## 🚀 Features
+
+- Hosted on Amazon S3
+- Delivered through Amazon CloudFront
+- HTTPS enabled
+- Static portfolio website
+
 ## 🛠 Tools Used
 - Amazon S3
 - HTML
 - AWS Console
 
 ## 🌐 Live Demo
-[View Live Website](http://kayode-aws-site-2026.s3-website.eu-west-2.amazonaws.com)
+
+[View Live Website](https://dzl16idc71phk.cloudfront.net)
 
 ## 📸 Screenshots
 
@@ -33,10 +41,12 @@ This project demonstrates how to host a static website using Amazon S3.
 
 <img src="screenshots/s3-bucket-properties.jpg" width="700"/>
 
-## 📚 What I Learned
-- How S3 works
-- Static website hosting in AWS
-- Basic cloud deployment
+## 📘 What I Learned
+
+- How to host a static website on Amazon S3
+- How to use CloudFront as a CDN
+- How HTTPS delivery works for static sites
+- How to document a cloud project on GitHub
 
 ## 💼 Why This Project Matters
 
