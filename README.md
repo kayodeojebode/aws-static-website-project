@@ -21,11 +21,11 @@ This project demonstrates how to host a static website using Amazon S3.
 
 ### 🌐 Live Website
 
-<img src="screenshots/live-site1.jpg" width="700"/>
+<img src="screenshots/live-website1..jpg" width="700"/>
 
-<img src="screenshots/live-site2.jpg" width="700"/>
+<img src="screenshots/live-website2.jpg" width="700"/>
 
-<img src="screenshots/live-site3.jpg" width="700"/>
+<img src="screenshots/live-website3.jpg" width="700"/>
 
 ---
 
