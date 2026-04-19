@@ -27,7 +27,9 @@ This project demonstrates how to host a static website using Amazon S3.
 
 <img src="screenshots/live-site3.jpg" width="700"/>
 
-### ⚙️ S3 Bucket Properties
+---
+
+### ☁️ S3 Bucket Properties
 
 <img src="screenshots/s3-properties.jpg" width="700"/>
 
