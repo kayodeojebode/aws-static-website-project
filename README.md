@@ -17,6 +17,20 @@ This project demonstrates how to host a static website using Amazon S3.
 ## 🌐 Live Demo
 [View Live Website](http://kayode-aws-site-2026.s3-website.eu-west-2.amazonaws.com)
 
+## 📸 Screenshots
+
+### 🌐 Live Website
+
+<img src="screenshots/live-site1.jpg" width="700"/>
+
+<img src="screenshots/live-site2.jpg" width="700"/>
+
+<img src="screenshots/live-site3.jpg" width="700"/>
+
+### ⚙️ S3 Bucket Properties
+
+<img src="screenshots/s3-properties.jpg" width="700"/>
+
 ## 📚 What I Learned
 - How S3 works
 - Static website hosting in AWS
